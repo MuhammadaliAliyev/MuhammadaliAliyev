@@ -54,7 +54,7 @@ I focus on writing clean, understandable code and learning modern backend techno
   <a href="https://t.me/aliyev4174" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/muhammadalialiyev" target="_blank">
+  <a href="https://linkedin.com/in/muhammadalialiyev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
